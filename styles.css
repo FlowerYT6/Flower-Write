@@ -2,3 +2,8 @@ body {
   background-color: #444;
   color: white;
 }
+.main {
+  background: #333;
+  display: flex;
+  overflow-x: auto;
+}
